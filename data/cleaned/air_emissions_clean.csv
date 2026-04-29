@@ -1,0 +1,231 @@
+Sector,Year,CO2_Emissions_Tonnes
+"Agriculture, forestry and fishing",2010,6920809.0
+"Agriculture, forestry and fishing",2011,6570591.0
+"Agriculture, forestry and fishing",2012,6542280.0
+"Agriculture, forestry and fishing",2013,6633350.0
+"Agriculture, forestry and fishing",2014,6846928.0
+"Agriculture, forestry and fishing",2015,7222154.0
+"Agriculture, forestry and fishing",2016,7240907.0
+"Agriculture, forestry and fishing",2017,7393881.0
+"Agriculture, forestry and fishing",2018,7800370.0
+"Agriculture, forestry and fishing",2019,6503396.0
+Mining and quarrying,2010,22514526.0
+Mining and quarrying,2011,20290474.0
+Mining and quarrying,2012,19578164.0
+Mining and quarrying,2013,22405183.0
+Mining and quarrying,2014,34135529.0
+Mining and quarrying,2015,28744148.0
+Mining and quarrying,2016,29683614.0
+Mining and quarrying,2017,30328622.0
+Mining and quarrying,2018,32864654.0
+Mining and quarrying,2019,24682551.0
+Manufacturing,2010,58321977.0
+Manufacturing,2011,55873322.0
+Manufacturing,2012,55742841.0
+Manufacturing,2013,58389183.0
+Manufacturing,2014,73538207.0
+Manufacturing,2015,80158395.0
+Manufacturing,2016,83056825.0
+Manufacturing,2017,82887386.0
+Manufacturing,2018,80181854.0
+Manufacturing,2019,64998179.0
+"Electricity, gas, steam and air conditioning supply",2010,88929918.0
+"Electricity, gas, steam and air conditioning supply",2011,90997362.0
+"Electricity, gas, steam and air conditioning supply",2012,97637477.0
+"Electricity, gas, steam and air conditioning supply",2013,97817332.0
+"Electricity, gas, steam and air conditioning supply",2014,102933896.0
+"Electricity, gas, steam and air conditioning supply",2015,96665167.0
+"Electricity, gas, steam and air conditioning supply",2016,97342363.0
+"Electricity, gas, steam and air conditioning supply",2017,106021782.0
+"Electricity, gas, steam and air conditioning supply",2018,112784872.0
+"Electricity, gas, steam and air conditioning supply",2019,112337816.0
+"Water supply; sewerage, waste management and remediation activities",2010,587538.0
+"Water supply; sewerage, waste management and remediation activities",2011,516899.0
+"Water supply; sewerage, waste management and remediation activities",2012,544364.0
+"Water supply; sewerage, waste management and remediation activities",2013,488968.0
+"Water supply; sewerage, waste management and remediation activities",2014,509006.0
+"Water supply; sewerage, waste management and remediation activities",2015,473685.0
+"Water supply; sewerage, waste management and remediation activities",2016,478357.0
+"Water supply; sewerage, waste management and remediation activities",2017,501555.0
+"Water supply; sewerage, waste management and remediation activities",2018,520532.0
+"Water supply; sewerage, waste management and remediation activities",2019,406779.0
+Construction,2010,5443447.0
+Construction,2011,5768170.0
+Construction,2012,6158044.0
+Construction,2013,6714012.0
+Construction,2014,6347893.0
+Construction,2015,7348095.0
+Construction,2016,5354444.0
+Construction,2017,5957446.0
+Construction,2018,6058354.0
+Construction,2019,4100674.0
+Services (except transportation and storage),2010,32698142.0
+Services (except transportation and storage),2011,25320971.0
+Services (except transportation and storage),2012,26332149.0
+Services (except transportation and storage),2013,29887111.0
+Services (except transportation and storage),2014,32354355.0
+Services (except transportation and storage),2015,37830474.0
+Services (except transportation and storage),2016,37890821.0
+Services (except transportation and storage),2017,39264272.0
+Services (except transportation and storage),2018,39593795.0
+Services (except transportation and storage),2019,26316683.0
+Wholesale and retail trade; repair of motor vehicles and motorcycles,2010,9954985.0
+Wholesale and retail trade; repair of motor vehicles and motorcycles,2011,9351286.0
+Wholesale and retail trade; repair of motor vehicles and motorcycles,2012,9564027.0
+Wholesale and retail trade; repair of motor vehicles and motorcycles,2013,10351926.0
+Wholesale and retail trade; repair of motor vehicles and motorcycles,2014,11663659.0
+Wholesale and retail trade; repair of motor vehicles and motorcycles,2015,13169158.0
+Wholesale and retail trade; repair of motor vehicles and motorcycles,2016,13088695.0
+Wholesale and retail trade; repair of motor vehicles and motorcycles,2017,14921173.0
+Wholesale and retail trade; repair of motor vehicles and motorcycles,2018,14811004.0
+Wholesale and retail trade; repair of motor vehicles and motorcycles,2019,9288456.0
+Transportation and storage,2010,15452901.0
+Transportation and storage,2011,12651178.0
+Transportation and storage,2012,13683711.0
+Transportation and storage,2013,13272612.0
+Transportation and storage,2014,14388901.0
+Transportation and storage,2015,14349370.0
+Transportation and storage,2016,14079608.0
+Transportation and storage,2017,13627152.0
+Transportation and storage,2018,15189543.0
+Transportation and storage,2019,12857820.0
+Accommodation and food service activities,2010,733146.0
+Accommodation and food service activities,2011,525012.0
+Accommodation and food service activities,2012,491742.0
+Accommodation and food service activities,2013,511778.0
+Accommodation and food service activities,2014,571835.0
+Accommodation and food service activities,2015,718080.0
+Accommodation and food service activities,2016,743504.0
+Accommodation and food service activities,2017,785572.0
+Accommodation and food service activities,2018,865935.0
+Accommodation and food service activities,2019,562161.0
+Information and communication,2010,2020485.0
+Information and communication,2011,1522239.0
+Information and communication,2012,1457983.0
+Information and communication,2013,1678266.0
+Information and communication,2014,1520989.0
+Information and communication,2015,1799697.0
+Information and communication,2016,1343900.0
+Information and communication,2017,1430209.0
+Information and communication,2018,1394627.0
+Information and communication,2019,1021146.0
+Financial and insurance activities,2010,2242794.0
+Financial and insurance activities,2011,1249700.0
+Financial and insurance activities,2012,1336402.0
+Financial and insurance activities,2013,1638821.0
+Financial and insurance activities,2014,1832541.0
+Financial and insurance activities,2015,2605008.0
+Financial and insurance activities,2016,2351959.0
+Financial and insurance activities,2017,2500067.0
+Financial and insurance activities,2018,2573088.0
+Financial and insurance activities,2019,1775032.0
+Real estate activities,2010,5811233.0
+Real estate activities,2011,3321791.0
+Real estate activities,2012,3398179.0
+Real estate activities,2013,4049216.0
+Real estate activities,2014,4781113.0
+Real estate activities,2015,5583544.0
+Real estate activities,2016,5235197.0
+Real estate activities,2017,5285804.0
+Real estate activities,2018,5181756.0
+Real estate activities,2019,3349752.0
+"Professional, scientific and technical activities",2010,2726700.0
+"Professional, scientific and technical activities",2011,2452945.0
+"Professional, scientific and technical activities",2012,2197936.0
+"Professional, scientific and technical activities",2013,2360506.0
+"Professional, scientific and technical activities",2014,2327306.0
+"Professional, scientific and technical activities",2015,2803475.0
+"Professional, scientific and technical activities",2016,4127241.0
+"Professional, scientific and technical activities",2017,3535325.0
+"Professional, scientific and technical activities",2018,3840294.0
+"Professional, scientific and technical activities",2019,2559883.0
+Administrative and support service activities,2010,1683780.0
+Administrative and support service activities,2011,1250711.0
+Administrative and support service activities,2012,1300591.0
+Administrative and support service activities,2013,1470180.0
+Administrative and support service activities,2014,1537025.0
+Administrative and support service activities,2015,1722730.0
+Administrative and support service activities,2016,1980491.0
+Administrative and support service activities,2017,2175306.0
+Administrative and support service activities,2018,2278779.0
+Administrative and support service activities,2019,1578623.0
+Public administration and defence; compulsory social security,2010,2131054.0
+Public administration and defence; compulsory social security,2011,1591338.0
+Public administration and defence; compulsory social security,2012,1781136.0
+Public administration and defence; compulsory social security,2013,1789827.0
+Public administration and defence; compulsory social security,2014,1843737.0
+Public administration and defence; compulsory social security,2015,2255020.0
+Public administration and defence; compulsory social security,2016,2139725.0
+Public administration and defence; compulsory social security,2017,1752227.0
+Public administration and defence; compulsory social security,2018,1770004.0
+Public administration and defence; compulsory social security,2019,1424231.0
+Education,2010,2253158.0
+Education,2011,1702009.0
+Education,2012,1742231.0
+Education,2013,1912332.0
+Education,2014,2003434.0
+Education,2015,2187495.0
+Education,2016,2098463.0
+Education,2017,2118156.0
+Education,2018,2244000.0
+Education,2019,1513666.0
+Human health and social work activities,2010,2144670.0
+Human health and social work activities,2011,1504700.0
+Human health and social work activities,2012,1968149.0
+Human health and social work activities,2013,2005549.0
+Human health and social work activities,2014,2034850.0
+Human health and social work activities,2015,2230596.0
+Human health and social work activities,2016,2134079.0
+Human health and social work activities,2017,2063695.0
+Human health and social work activities,2018,1532650.0
+Human health and social work activities,2019,1274746.0
+"Arts, entertainment and recreation",2010,345790.0
+"Arts, entertainment and recreation",2011,315724.0
+"Arts, entertainment and recreation",2012,341292.0
+"Arts, entertainment and recreation",2013,377600.0
+"Arts, entertainment and recreation",2014,417618.0
+"Arts, entertainment and recreation",2015,523234.0
+"Arts, entertainment and recreation",2016,476726.0
+"Arts, entertainment and recreation",2017,593438.0
+"Arts, entertainment and recreation",2018,751134.0
+"Arts, entertainment and recreation",2019,432181.0
+Other service activities,2010,650339.0
+Other service activities,2011,533509.0
+Other service activities,2012,752471.0
+Other service activities,2013,1741101.0
+Other service activities,2014,1820237.0
+Other service activities,2015,2232426.0
+Other service activities,2016,2170830.0
+Other service activities,2017,2103287.0
+Other service activities,2018,2350510.0
+Other service activities,2019,1536794.0
+Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2010,3.0
+Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2011,3.0
+Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2012,3.0
+Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2013,3.0
+Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2014,3.0
+Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2015,3.0
+Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2016,3.0
+Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2017,4.0
+Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2018,4.0
+Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use,2019,4.0
+Activities of extraterritorial organizations and bodies,2010,6.0
+Activities of extraterritorial organizations and bodies,2011,6.0
+Activities of extraterritorial organizations and bodies,2012,7.0
+Activities of extraterritorial organizations and bodies,2013,7.0
+Activities of extraterritorial organizations and bodies,2014,7.0
+Activities of extraterritorial organizations and bodies,2015,7.0
+Activities of extraterritorial organizations and bodies,2016,7.0
+Activities of extraterritorial organizations and bodies,2017,9.0
+Activities of extraterritorial organizations and bodies,2018,9.0
+Activities of extraterritorial organizations and bodies,2019,9.0
+Activities by households,2010,16113418.0
+Activities by households,2011,19044917.0
+Activities by households,2012,17702786.0
+Activities by households,2013,15844871.0
+Activities by households,2014,26588700.0
+Activities by households,2015,28481577.0
+Activities by households,2016,29712499.0
+Activities by households,2017,34809236.0
+Activities by households,2018,36826604.0
+Activities by households,2019,45365436.0

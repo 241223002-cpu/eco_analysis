@@ -3,27 +3,36 @@
 This document outlines the phases and specific tasks required to complete the research project.
 
 ## Phase 1: Project Initiation & Literature Review
-- [ ] Define precise research questions and hypotheses.
-- [ ] Conduct a comprehensive literature review focusing on:
+- [x] Define precise research questions and hypotheses.
+- [x] Conduct a comprehensive literature review focusing on:
   - Green technology innovation in emerging and transition economies.
   - The role of government subsidies in environmental and economic performance.
   - Corporate sustainability (ESG) metrics in Kazakhstan and Central Asia.
-- [ ] Finalize the theoretical and conceptual framework.
-- [ ] Identify key variables (dependent, independent, control, mediating/moderating).
+- [x] Finalize the theoretical and conceptual framework.
+- [x] Identify key variables (dependent, independent, control, mediating/moderating).
 
 ## Phase 2: Data Collection & Preparation
+### Part A: Macroeconomic Context (Completed)
+- [x] Identify and collect national-level data (OECD databases).
+- [x] Clean and reshape macro datasets (Green Growth, Air Emissions, GDP, Patents, PSE).
+- [x] Perform EDA and generate macro descriptive statistics:
+  - [x] Green Growth Trends (CO₂/Energy productivity, Green Taxes).
+  - [x] Tapio Decoupling Analysis (GDP vs CO₂ emissions).
+  - [x] International Green Patent Benchmarking.
+  - [x] Sectoral Air Emissions Analysis.
+
+### Part B: Firm-Level Panel Data (Up Next)
 - [ ] Identify and request access to data sources:
-  - Bureau of National Statistics of the Agency for Strategic Planning and Reforms of the Republic of Kazakhstan.
-  - Firm annual reports and sustainability reports.
-  - Financial databases (e.g., Bloomberg, Thomson Reuters, or local databases).
+  - Bureau of National Statistics of the Republic of Kazakhstan.
+  - Firm annual reports, sustainability reports, and Damu fund reports.
 - [ ] Compile data on:
   - Sustainability performance indicators (emissions, waste management, energy efficiency).
   - R&D expenditure on green/clean technologies.
   - Receipt and volume of government environmental subsidies.
   - Control variables (firm size, age, profitability, industry sector, location).
-- [ ] Clean and preprocess the panel data.
+- [ ] Clean and preprocess the firm-level panel data.
 - [ ] Handle missing values, outliers, and ensure data consistency.
-- [ ] Perform exploratory data analysis (EDA) and generate descriptive statistics.
+- [ ] Perform EDA and generate descriptive statistics for the firm-level sample.
 
 ## Phase 3: Methodology & Empirical Analysis
 - [ ] Select appropriate econometric models:

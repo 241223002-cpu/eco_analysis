@@ -10,22 +10,32 @@ def get_project_root():
     return Path(__file__).resolve().parent.parent.parent
 
 def load_data(data_path):
-    """Robustly load data, handling the case where an Excel file has a .csv extension."""
-    try:
-        # First try as standard CSV
-        print(f"Attempting to read {data_path} as CSV...")
-        df = pd.read_csv(data_path)
-        return df
-    except Exception as e:
-        print(f"Failed to read as CSV ({e}). Trying as Excel file...")
+    """Robustly load data, trying multiple encodings (important for Cyrillic data)."""
+    # Try multiple encodings — cp1251 and latin-1 are common for Russian/Kazakh files
+    encodings_to_try = ['utf-8', 'cp1251', 'latin-1', 'utf-8-sig']
+
+    for enc in encodings_to_try:
         try:
-            # Fallback to Excel if it's actually an XLSX file disguised as CSV
-            # This is common if someone manually renames .xlsx to .csv
-            df = pd.read_excel(data_path)
+            print(f"Attempting to read {data_path} as CSV with encoding '{enc}'...")
+            df = pd.read_csv(data_path, encoding=enc)
+            print(f"  [OK] Success with encoding '{enc}'.")
             return df
-        except Exception as excel_error:
-            print(f"Failed to read as Excel ({excel_error}).")
-            raise ValueError(f"Could not read the data file: {data_path}")
+        except UnicodeDecodeError:
+            print(f"  [FAIL] Encoding '{enc}' failed, trying next...")
+        except Exception as e:
+            # Non-encoding error — stop trying CSV variants
+            print(f"  [FAIL] CSV read error ({e}). Will try Excel fallback.")
+            break
+
+    # Fallback: file may be an Excel file renamed as .csv
+    try:
+        print(f"Trying to read {data_path} as an Excel file...")
+        df = pd.read_excel(data_path, engine='calamine')
+        print("  [OK] Success reading as Excel.")
+        return df
+    except Exception as excel_error:
+        print(f"  [FAIL] Failed to read as Excel ({excel_error}).")
+        raise ValueError(f"Could not read the data file: {data_path}")
 
 def analyze_budgets():
     # Setup paths
@@ -130,7 +140,7 @@ def analyze_budgets():
         plt.close()
         print(f"Saved correlation matrix plot to {corr_path}")
 
-    print("\n✅ Budget analysis completed successfully.")
+    print("\n[DONE] Budget analysis completed successfully.")
     print(f"All outputs are saved in: {outputs_dir}")
 
 if __name__ == "__main__":

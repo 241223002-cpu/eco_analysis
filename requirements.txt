@@ -2,3 +2,8 @@ pandas
 matplotlib
 seaborn
 openpyxl
+python-calamine
+xlrd
+pdfplumber
+PyMuPDF
+tqdm
