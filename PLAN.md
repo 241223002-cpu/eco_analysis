@@ -1,4 +1,4 @@
-# Project Plan: Green Tech Innovation & Subsidies in Kazakhstani Firms
+# Project Plan: Green Tech Innovation & Green Bonds in Kazakhstani Firms
 
 This document outlines the phases and specific tasks required to complete the research project.
 
@@ -6,7 +6,7 @@ This document outlines the phases and specific tasks required to complete the re
 - [x] Define precise research questions and hypotheses.
 - [x] Conduct a comprehensive literature review focusing on:
   - Green technology innovation in emerging and transition economies.
-  - The role of government subsidies in environmental and economic performance.
+  - The role of corporate green bonds in environmental and economic performance (the "Greenium" effect, signaling theory).
   - Corporate sustainability (ESG) metrics in Kazakhstan and Central Asia.
 - [x] Finalize the theoretical and conceptual framework.
 - [x] Identify key variables (dependent, independent, control, mediating/moderating).
@@ -22,13 +22,14 @@ This document outlines the phases and specific tasks required to complete the re
   - [x] Sectoral Air Emissions Analysis.
 
 ### Part B: Firm-Level Panel Data (Up Next)
-- [ ] Identify and request access to data sources:
-  - Bureau of National Statistics of the Republic of Kazakhstan.
-  - Firm annual reports, sustainability reports, and Damu fund reports.
+- [ ] Identify and request access to green bond data sources:
+  - Kazakhstan Stock Exchange (KASE) and Astana International Exchange (AIX).
+  - Financial databases (Bloomberg, Refinitiv/Eikon, Climate Bonds Initiative).
+  - Firm annual and ESG reports (for use of proceeds).
 - [ ] Compile data on:
-  - Sustainability performance indicators (emissions, waste management, energy efficiency).
+  - Green bond issuance (volume, coupon rate, maturity, "greenium").
+  - Sustainability performance indicators pre- and post-issuance (emissions, waste, energy efficiency).
   - R&D expenditure on green/clean technologies.
-  - Receipt and volume of government environmental subsidies.
   - Control variables (firm size, age, profitability, industry sector, location).
 - [ ] Clean and preprocess the firm-level panel data.
 - [ ] Handle missing values, outliers, and ensure data consistency.
