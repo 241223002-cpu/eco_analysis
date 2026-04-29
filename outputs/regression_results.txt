@@ -1,0 +1,35 @@
+MACROECONOMIC REGRESSION RESULTS FOR KAZAKHSTAN (2010-2023)
+============================================================
+
+Model 1: Determinants of CO2 Emissions
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              Value_CO2   R-squared:                       0.783
+Model:                            OLS   Adj. R-squared:                  0.686
+Method:                 Least Squares   F-statistic:                     8.098
+Date:                Wed, 29 Apr 2026   Prob (F-statistic):            0.00471
+Time:                        19:15:22   Log-Likelihood:                -49.018
+No. Observations:                  14   AIC:                             108.0
+Df Residuals:                       9   BIC:                             111.2
+Df Model:                           4                                         
+Covariance Type:            nonrobust                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+const                 196.1531     24.974      7.854      0.000     139.658     252.649
+Value_GDP               0.0006      0.000      4.165      0.002       0.000       0.001
+Energy_Productivity    -0.0221      0.004     -5.096      0.001      -0.032      -0.012
+Renewable_Share         1.2789      2.901      0.441      0.670      -5.283       7.841
+Green_Patents           0.3922      0.512      0.767      0.463      -0.765       1.549
+==============================================================================
+Omnibus:                        6.650   Durbin-Watson:                   1.013
+Prob(Omnibus):                  0.036   Jarque-Bera (JB):                3.427
+Skew:                          -1.124   Prob(JB):                        0.180
+Kurtosis:                       3.905   Cond. No.                     2.48e+06
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 2.48e+06. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
